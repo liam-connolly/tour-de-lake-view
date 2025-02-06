@@ -12,3 +12,9 @@ For the purpose of clarity, I will be using the following as the boundaries of L
 * Ravenswood Avenue to the West
 * Diversey Parkway to the South
 * Clark Street and Lake Michigan to the East
+
+## the Chinese Postman Problem
+
+In graph theory, the Chinese Postman problem is to find the shortest closed path that visits every edge at least once. I am going to apply that problem to Lake View
+
+![Lake View Graph](assets/lake_view_graph.png)
